@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# You must have Latest version of node & yarn (npm will also work) in order to run this app
+
+## To install Yarn (once node is installed)
+
+[install yarn](https://yarnpkg.com/en/docs/install)
+
 ## To download dependecies
 
 ```yarn```
