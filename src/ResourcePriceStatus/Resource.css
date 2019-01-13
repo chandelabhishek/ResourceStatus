@@ -1,0 +1,48 @@
+.resource-card {
+  display: flex;
+  justify-content: space-between;
+}
+
+.resource-container {
+  display: flex;
+  flex-direction: column;
+  padding: 10px 23px 10px 23px;
+  justify-content: space-between;
+  min-width: 160px;
+}
+
+.first-row {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  font-size: 12px;
+  text-transform: uppercase;
+  min-height: 20px;
+}
+
+.second-row {
+  flex: 2;
+  display: flex;
+  font-size: 22px;
+  justify-content: flex-start;
+  align-items: flex-end;
+  line-height: 26px;
+}
+
+.volume {
+  font-size: 10px;
+  align-self: flex-end;
+  margin-left: 8px;
+  margin-bottom: -3px;
+  font-weight: bold;
+}
+
+.status {
+  margin-left: -4px;
+}
+
+.separator {
+  border: 0.5px solid #484444a6;
+  margin: 10px 5px;
+}
